@@ -1,7 +1,2 @@
-# HTTP
-
-# HTTPS
-
-# TLS 1.1
-
-# TLS 1.2
+# Servlet
+ - https://www.javatpoint.com/servlet-tutorial
