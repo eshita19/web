@@ -1,0 +1,12 @@
+version: '2.1'
+
+services:
+  webapp:
+    build: 
+      context: ./ 
+      dockerfile : ./Dockerfile
+    container_name: servlet-tomcat
+    ports:
+      - "8080:8080" 
+  
+      
