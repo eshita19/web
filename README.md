@@ -7,4 +7,13 @@
   - <img src="https://github.com/eshita19/web/blob/master/oauth2.0.png"></img>
 
 ## LDAP
-  - LDAP setup on mac: https://out-of-memo.blogspot.com/2017/07/setup-openldap-on-mac.html
+  - LDAP setup on mac: 
+     - Download the latest OpenLDAP release
+`
+- $ tar zxf openldap-x.x.x.tgz
+`- $ cd openldap-x.x.x
+`- $ ./configure
+`- $ make depend
+` - $ make
+`- $ sudo make install
+`
