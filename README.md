@@ -15,4 +15,5 @@
        - `- $ make depend`
        - ` - $ make`
        - `- $ sudo make install`
+   - https://www.youtube.com/watch?v=mG3yNCHeQiY    
 
