@@ -9,11 +9,10 @@
 ## LDAP
   - LDAP setup on mac: 
      - Download the latest OpenLDAP release
-`
-- $ tar zxf openldap-x.x.x.tgz
-`- $ cd openldap-x.x.x
-`- $ ./configure
-`- $ make depend
-` - $ make
-`- $ sudo make install
-`
+       - `$ tar zxf openldap-x.x.x.tgz`
+       - `$ cd openldap-x.x.x`
+       - `- $ ./configure`
+       - `- $ make depend`
+       - ` - $ make`
+       - `- $ sudo make install`
+
