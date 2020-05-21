@@ -19,11 +19,13 @@
    
 ## SSL : 
    - Assymetric encryption using truststore(CA certificate) and keystore(private key):
-   - Browser sends the shared key by encrypting with public key(truststore) to server. Server decrypts it with private key.
+   - The server sends its CA certificates. Browser checks them among its known certificates list(similar to known hosts in SSH). Browser then encrypts shared secret key using CA Browser sends the shared key by encrypting with public key(truststore) to server. Server decrypts it with private key.
+   - Server(private Key) <-> Browser (Public key)
    - https://www.youtube.com/watch?v=33VYnE7Bzpk&t=43
       
 ##  SSH: 
-   - Assymetric encryption: Public key: (.ssh/authorized_keys), private key: (.ssh), Known hosts(.ssh/known_hosts):
+   - Assymetric encryption: Public key: (.ssh/authorized_keys), private key: (.ssh), Known hosts(.ssh/known_hosts)
+   - Client(Private key) <-> Server (Public Key)
    - https://www.youtube.com/watch?v=y2SWzw9D4RA&t=325s
    
    
