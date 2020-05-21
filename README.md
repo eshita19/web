@@ -15,5 +15,14 @@
        - `- $ make depend`
        - ` - $ make`
        - `- $ sudo make install`
-   - https://www.youtube.com/watch?v=mG3yNCHeQiY    
+   - https://www.youtube.com/watch?v=mG3yNCHeQiY  
+   
+## SSL : Assymetric encryption using truststore(CA certificate) and keystore(private key):
+   - Browser sends the shared key by encrypting with public key(truststore) to server. Server decrypts it with private key.
+   - https://www.youtube.com/watch?v=33VYnE7Bzpk&t=43
+      
+##  SSH: Assymetric encryption: Public key: (.ssh/authorized_keys), private key: (.ssh), Known hosts(.ssh/known_hosts):
+   - https://www.youtube.com/watch?v=y2SWzw9D4RA&t=325s
+   
+   
 
