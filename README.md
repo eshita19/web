@@ -6,6 +6,7 @@
   - https://www.youtube.com/watch?v=1M6gqoGiO2s
   - <img src="https://github.com/eshita19/web/blob/master/oauth2.0.png"></img>
   - https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
+  - Google OAuth : https://ktor.io/quickstart/guides/oauth.html
 
 ## LDAP
   - LDAP setup on mac: 
