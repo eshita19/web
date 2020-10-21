@@ -33,6 +33,9 @@
    
 ## Java Security Providers:
   - https://docs.oracle.com/javase/7/docs/technotes/guides/security/overview/jsoverview.html
+  
+## Syslog
+ https://blog.heroix.com/blog/configuring-and-collecting-syslog
    
    
 
